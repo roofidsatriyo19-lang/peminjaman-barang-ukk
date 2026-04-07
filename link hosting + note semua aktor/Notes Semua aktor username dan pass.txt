@@ -1,0 +1,4 @@
+Notes Semua aktor username dan password
+Username : Admin, Password : 1234, role : admin
+Username : Petugas, Password : 123, role : petugas
+Username : anotheropit, Password : 2007, role : peminjam
