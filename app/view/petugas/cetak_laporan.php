@@ -39,9 +39,9 @@ $data = $peminjamanModel->getAll();
         <button onclick="window.print()" style="padding: 10px 20px; cursor: pointer; background: #6f42c1; color: white; border: none; border-radius: 5px;">
             🖨️ Cetak Laporan
         </button>
-        <button onclick="window.close()" style="padding: 10px 20px; cursor: pointer; background: #6c757d; color: white; border: none; border-radius: 5px; margin-left: 10px;">
-            Tutup Tab
-        </button>
+        <a href="dashboardPetugas.php" style="text-decoration: none; padding: 10px 20px; cursor: pointer; background: #6c757d; color: white; border: none; border-radius: 5px; margin-left: 10px; display: inline-block; font-size: 13.3px; font-family: Arial;">
+         Kembali ke Dashboard
+    </a>
     </div>
 
     <div class="header">

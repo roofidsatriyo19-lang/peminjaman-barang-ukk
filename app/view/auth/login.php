@@ -208,7 +208,7 @@
             <button type="submit" class="btn btn-login">Masuk </button>
         </form>
 
-        <a href="../../../public/index.php" class="back-link">
+                <a href="index.php" class="back-link">
             <i class="bi bi-arrow-left-circle-fill me-2"></i>Home
         </a>
     </div>
